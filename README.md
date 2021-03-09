@@ -4,9 +4,9 @@ This is a subset of the *Spoken Komi Corpus*. It contains recordings done by Eri
 
 In our reference system we use the recording signums that are used in the [Tape Archive of the Finnish Language](https://www.kotus.fi/en/corpora_and_other_material/spoken_language_corpora) located at the [Institute for the Languages of Finland](https://www.kotus.fi/en).
 
-The dataset accompanies and forms a part from the Spoken Komi Corpus that is being being archived to the Language Archive under the node [Permic Varieties](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_001B_99BC_F). Our team is also continuosly working with making the materials available through the Language Bank of Finland. Additionally, those materials that can be openly licensed are stored in GitHub.  
+The dataset accompanies and forms a part from the Spoken Komi Corpus that is being being archived at the Language Archive under the node [Permic Varieties](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_001B_99BC_F). Our team is also continuously working to make the materials available through the Language Bank of Finland. Additionally, those materials that can be openly licensed are stored in GitHub.  
 
-The work is done within Kone Foundation funded project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](http://langdoc.github.io/IKDP-2). 
+The work is done within the project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](http://langdoc.github.io/IKDP-2) funded by the Kone Foundation.  
 
 Authors: Rogier Blokland, Niko Partanen and Michael Rießler.
 
