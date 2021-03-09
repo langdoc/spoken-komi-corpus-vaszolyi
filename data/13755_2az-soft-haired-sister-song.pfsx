@@ -8,7 +8,7 @@
         <Int>1</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
+        <Int>0</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -17,7 +17,7 @@
         <String>comment</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>551195</Long>
+        <Long>469453</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -69,6 +69,9 @@
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
+    <pref key="GridViewer.TierName">
+        <String>ref@EVV-M-1933</String>
+    </pref>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,23</Object>
     </pref>
@@ -76,7 +79,7 @@
         <Boolean>true</Boolean>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>546337</Long>
+        <Long>462363</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -87,10 +90,10 @@
         </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>541080</Long>
+        <Long>457148</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>547266</Long>
+        <Long>468964</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="ref@UAK-F-1896">

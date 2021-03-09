@@ -17,10 +17,10 @@
         <String>comment</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1415489</Long>
+        <Long>1866775</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>54.000004</Float>
+        <Float>54.000008</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -76,13 +76,13 @@
         <Object class="java.awt.Point">0,23</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>54.000004</Float>
+        <Float>54.000008</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>1412678</Long>
+        <Long>1865622</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -93,10 +93,10 @@
         </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>1399861</Long>
+        <Long>1851976</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1414564</Long>
+        <Long>1865622</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="ref@Unknown">
