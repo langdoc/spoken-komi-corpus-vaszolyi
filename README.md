@@ -16,4 +16,4 @@ Directory `data` contains ELAN files. They are associated with audio recordings 
 
 ## License
 
-The transcriptions published in Specimina Sibirica series have been made here available with permission. These, and our own transcriptions, are available under CC-BY license. 
+The transcriptions published in the Specimina Sibirica series have been made available here with permission. These, and our own transcriptions, are available under CC-BY license. 
