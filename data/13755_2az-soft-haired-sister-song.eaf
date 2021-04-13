@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-10T10:46:03+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-13T21:04:04+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/npartane/github/spoken-komi-corpus-vaszolyi/audio/13755_2az.wav"
+            MEDIA_URL="file:///Users/npartane/langdoc/spoken-komi-corpus-vaszolyi/audio/13755_2az.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../audio/13755_2az.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:55d359c5-9bf3-418b-9da9-a15b9782a908</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2444</PROPERTY>

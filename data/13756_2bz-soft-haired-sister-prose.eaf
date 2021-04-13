@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-12T17:48:29+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-13T21:03:17+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -3476,7 +3476,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2812" ANNOTATION_REF="a2255">
-                <ANNOTATION_VALUE>"Чое, нӧревитлы". висьталэ "ва-ош туй мунэма да ме ва-ош туй бӧрсяньыс вӧтэдча".</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Чое, нӧревитлы", висьталэ, "ва-ош туй мунэма да ме ва-ош туй бӧрсяньыс вӧтэдча".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3571,7 +3571,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2831" ANNOTATION_REF="a2274">
-                <ANNOTATION_VALUE>Няртла пасьта ваяс дадьууяс чечченыс, пыр мунэ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4026,7 +4026,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2922" ANNOTATION_REF="a2475">
-                <ANNOTATION_VALUE>небыд юрси чойыс воис.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Небыд юрси чойыс воис.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4101,7 +4101,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2937" ANNOTATION_REF="a2490">
-                <ANNOTATION_VALUE>сэсся и</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Сэсся и</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4116,7 +4116,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2940" ANNOTATION_REF="a2493">
-                <ANNOTATION_VALUE>пырис. асылэ-буре</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Пырис. Асылэ-буре</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4126,7 +4126,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2942" ANNOTATION_REF="a2495">
-                <ANNOTATION_VALUE>саюйяс и кӧр сибедісныс. Саюйяс кӧр сибедісныс да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Саюйяс и кӧр сибедісныс. Саюйяс кӧр сибедісныс да</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4136,7 +4136,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2944" ANNOTATION_REF="a2497">
-                <ANNOTATION_VALUE>"вайлы" висьталэ "бур, дадьууяссэ лямкоолам, воедлам,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Вайлы" висьталэ "бур, дадьууяссэ лямкоолам, воедлам,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4156,12 +4156,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2948" ANNOTATION_REF="a2501">
-                <ANNOTATION_VALUE>а, сэсся и, а небыд юрси и висьталэ:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>А, сэсся и, а небыд юрси и висьталэ:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2949" ANNOTATION_REF="a2502">
-                <ANNOTATION_VALUE>"абу веське тіян… из вӧӧ веське ае-мамелэн тіян</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Абу веське тіян… Из вӧӧ веське ае-мамелэн тіян</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4176,7 +4176,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2952" ANNOTATION_REF="a2505">
-                <ANNOTATION_VALUE>но мужикыс</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Но мужикыс</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4186,7 +4186,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2954" ANNOTATION_REF="a2507">
-                <ANNOTATION_VALUE>сыа тай чеччис да сэчче и эштэдіс.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Сыа тай чеччис да сэчче и эштэдіс.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4201,12 +4201,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2957" ANNOTATION_REF="a2510">
-                <ANNOTATION_VALUE>вӧтэдіс да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Вӧтэдіс да</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2958" ANNOTATION_REF="a2511">
-                <ANNOTATION_VALUE>висьталэ: "Вокелэн- вокъясэлэн тшесьтыс? лортсэвка йылас суутэда же, юес пу йылас!".</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Висьталэ: "Вокелэн- вокъясэлэн тшесьтыс? лортсэвка йылас суутэда же, юес пу йылас!".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4221,17 +4221,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2962" ANNOTATION_REF="a2358">
-                <ANNOTATION_VALUE>Эулалэныс. Сэсся и сыа чомъяс воис,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Сулалэныс. Сэсся и сыа чомъяс воис,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2963" ANNOTATION_REF="a2359">
-                <ANNOTATION_VALUE>Монь- моньяссэ да чойяссэ… чойсэ да ӧтлаэ, ӧтік чомъе карис</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Монь- моньяссэ да чойяссэ… Чойсэ да ӧтлаэ, ӧтік чомъе карис</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2964" ANNOTATION_REF="a2360">
-                <ANNOTATION_VALUE>и сыа кӧр шӧрын кучис карooличчыны войын.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>И сыа кӧр шӧрын кучис карooличчыны войын.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4346,7 +4346,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2987" ANNOTATION_REF="a2383">
-                <ANNOTATION_VALUE>а вокыс сыа поозема да гӧлэссэ оз нин тӧд. А бабаыс и висьталэ:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>А вокыс сыа поозема да гӧлэссэ оз нин тӧд. А бабаыс и висьталэ:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4356,7 +4356,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2989" ANNOTATION_REF="a2385">
-                <ANNOTATION_VALUE>меддзоля вокыдлэн, нёль кынь-рожа видзысьлэн вед гӧлэсыс!</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Меддзоля вокыдлэн, нёль кынь-рожа видзысьлэн вед гӧлэсыс!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
