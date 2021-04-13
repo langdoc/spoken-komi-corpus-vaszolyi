@@ -14,6 +14,10 @@ Authors: Rogier Blokland, Niko Partanen and Michael Rießler.
 
 Directory `data` contains ELAN files. They are associated with audio recordings that are not distributed in this data package, but can be acquired from the archives where they are stored. Exact information about their locations in the archives can be found from `audio/README.md`.
 
+## Unfinished tasks
+
+Work like this is always under improvements. Currently there are several transcription and translation tiers that have not been checked or added. The work is being updated continuously, and we aim to improve the documentation. If there are any unclear aspects of this work, please open an issue in this GitHub repository.
+
 ## License
 
 The transcriptions published in the Specimina Sibirica series have been made available here with permission. These, and our own transcriptions, are available under CC-BY license. 
