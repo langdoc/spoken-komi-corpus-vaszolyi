@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-10T11:28:46+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-12T17:48:29+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/npartane/github/spoken-komi-corpus-vaszolyi/audio/13756_2bz.wav"
+            MEDIA_URL="file:///Users/npartane/langdoc/spoken-komi-corpus-vaszolyi/audio/13756_2bz.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../audio/13756_2bz.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:55d359c5-9bf3-418b-9da9-a15b9782a908</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">4268</PROPERTY>
@@ -3236,7 +3236,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2764" ANNOTATION_REF="a2458">
-                <ANNOTATION_VALUE>а меддёля вокныс сыа кӧр вӧтлэ,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>А меддёля вокныс сыа кӧр вӧтлэ,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3291,7 +3291,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2775" ANNOTATION_REF="a2218">
-                <ANNOTATION_VALUE>Харейсэ суутэдіс, вит сыыя xарейыс.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>харейсэ суутэдіс, вит сыыя xарейыс.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3351,7 +3351,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2787" ANNOTATION_REF="a2230">
-                <ANNOTATION_VALUE>Куйим даддя локтэ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Куим даддя локтэ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3451,7 +3451,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2807" ANNOTATION_REF="a2250">
-                <ANNOTATION_VALUE>Даддяяс тай дадьууныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Даддяяс тай дадюуныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
